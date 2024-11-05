@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umokauqe.github.io/Lcg/sitemap_index.txt
+Sitemap: https://umokauqe.github.io/MTB/sitemap_index.txt
+Sitemap: https://umokauqe.github.io/SMh/sitemap_index.txt
+Sitemap: https://umokauqe.github.io/dBn/sitemap_index.txt
